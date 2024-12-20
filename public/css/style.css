@@ -14,8 +14,13 @@
   --oxford-blue: hsla(216, 100%, 15%, 1);
 }
 
+<<<<<<< HEAD
 /* Reset some default styles */
-body {
+=======
+html {
+  font-family: Catamaran;
+}
+>>>>>>>15c3983b0550b8ddca5a04e638273583bc9df272 body {
   font-family: Arial, sans-serif;
   background-color: #fff;
   margin: 0;
