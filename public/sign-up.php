@@ -10,7 +10,7 @@
 
 <body>
     <h1>Sign Up</h1>
-    <form action="#" method="post">
+    <form action="process.php" method="post">
         <label for="name">Name:</label>
         <input type="text" id="name" name="username" required>
 
@@ -21,7 +21,10 @@
         <input type="password" id="password" name="password" required>
 
         <input type="submit" value="Sign Up">
+        <p class="text-center">Already have an account? <a href="sign-in.php">Log In</a></p>
     </form>
+    <footer>
+    </footer>
 </body>
 
 </html>
