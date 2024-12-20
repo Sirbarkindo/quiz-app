@@ -1,0 +1,15 @@
+:root {
+  /* CSS HEX */
+  --harvest-gold: #eca400ff;
+  --cream: #eaf8bfff;
+  --cerulean: #006992ff;
+  --indigo-dye: #27476eff;
+  --oxford-blue: #001d4aff;
+
+  /* CSS HSL */
+  --harvest-gold: hsla(42, 100%, 46%, 1);
+  --cream: hsla(75, 80%, 86%, 1);
+  --cerulean: hsla(197, 100%, 29%, 1);
+  --indigo-dye: hsla(213, 48%, 29%, 1);
+  --oxford-blue: hsla(216, 100%, 15%, 1);
+}
