@@ -13,3 +13,7 @@
   --indigo-dye: hsla(213, 48%, 29%, 1);
   --oxford-blue: hsla(216, 100%, 15%, 1);
 }
+
+body {
+  background-color: var(--cream);
+}
